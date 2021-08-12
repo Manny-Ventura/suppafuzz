@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manuel Ventura
 - 👀 I’m interested in software development, and web development. 
   Outside of programming, I am a jazz pianist, with university experience in Piano, Bassoon, and Voice(Bari-Tenor)
-- 🌱 I’m currently learning C++, Python, & Java. Outside of prorgamming, 
-  I am learning how to use Ableton Live 10 Suite.
+- 🌱 I’m currently learning C++, Python, & Java. Outside of programming, 
+  I am learning how to use Ableton Live 10 Suite and working on the jazz tune Skylark on Piano.
 - 💞️ I’m looking to collaborate on potential job oppurtunities!
 - 📫 How to reach me: mannyventura9@yahoo.com
 
